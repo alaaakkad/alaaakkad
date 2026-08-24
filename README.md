@@ -1,71 +1,120 @@
+# GitHub Profile README
 
 # Alaa Alakkad
 
-### IT Systems Engineer | Infrastructure & Automation | DevOps
+### IT Systems Engineer | Infrastructure Automation | Virtualization | Linux | Windows | Containers
 
-IT Systems Engineer focused on designing, administering, and automating reliable infrastructure environments.
+IT Systems Engineer focused on designing, operating, and automating reliable infrastructure environments.
 
-My work combines **Linux, Windows Server, virtualization, networking, containers, and automation**, with a growing focus on **DevOps and Platform Engineering practices**.
+My work spans Linux and Windows Server administration, virtualization, infrastructure automation, containerized applications, networking, monitoring, and production systems.
 
----
-
-## Core Expertise
-
-* Linux & Windows Server Administration
-* Virtualization & Infrastructure Management
-* Docker & Kubernetes
-* Networking & Infrastructure Services
-* PowerShell, Bash & Python Automation
-* NGINX & Application Infrastructure
-* Git & GitHub
-* Monitoring & Observability
+Currently building practical projects that bridge traditional infrastructure operations with modern DevOps and Platform Engineering practices.
 
 ---
 
-## Current Focus
+## Engineering Areas
 
-Building practical infrastructure projects around:
-
-**Containerization · Kubernetes · Automation · CI/CD · Observability · Cloud**
-
----
-
-## Featured Project
-
-### Task Analytics System
-
-Containerized application infrastructure built from the ground up using Linux, Docker, Git, and NGINX.
-
-**Technologies:** Linux · Docker · NGINX · Git
-
-[View Project](https://github.com/alaaakkad/task-analytics-system)
+* **Infrastructure Administration** — Linux, Windows Server, Active Directory, Networking
+* **Virtualization** — VMware vSphere, Proxmox, KVM
+* **Infrastructure Automation** — PowerShell, Bash, Python
+* **Containers** — Docker, Docker Compose, Kubernetes
+* **Web & Application Infrastructure** — NGINX, FastAPI, PostgreSQL, Redis
+* **Monitoring & Observability** — Zabbix, Prometheus
+* **Version Control & Automation** — Git, GitHub, CI/CD
 
 ---
 
-## Technology Stack
+# Featured Projects
 
-| Area               | Technologies                       |
-| ------------------ | ---------------------------------- |
-| Systems            | Linux · Windows Server             |
-| Virtualization     | VMware · Proxmox · KVM             |
-| Containers         | Docker · Kubernetes                |
-| Automation         | PowerShell · Bash · Python         |
-| Web Infrastructure | NGINX · Apache                     |
-| Networking         | TCP/IP · Routing · Switching · VPN |
-| Monitoring         | Zabbix · Prometheus                |
-| DevOps             | Git · GitHub · CI/CD               |
-| Cloud              | Cloud Infrastructure & Services    |
+## Linux Automation & System Administration
+
+### [Linux Scripts](https://github.com/alaaakkad/linux-scripts)
+
+A growing collection of practical Bash automation projects for Linux system administration and operational tasks.
+
+Projects include:
+
+* Service Health Checker
+* Automated Backup Retention
+* Log Archive
+* NGINX Log Analyzer
+* Server Performance Monitoring
+
+**Focus:** Bash · Linux · Automation · Monitoring · Logging · Backup
 
 ---
 
-## Engineering Focus
+## Windows PowerShell Administration
 
-I build infrastructure with an emphasis on:
+### [Windows PowerShell Administration](https://github.com/alaaakkad/Windows-PowerShell-Administration)
 
-**Reliability · Automation · Reproducibility · Observability · Maintainability**
+A collection of PowerShell tools for Windows Server administration, remote management, session monitoring, SQL service validation, and operational automation.
+
+Projects include:
+
+* SQL Service Checker
+* Remote Windows Update Tool
+* Session Manager Pro
+* Master Session Manager Pro
+
+**Focus:** PowerShell · Windows Server · WinRM · Remote Administration · Automation
+
+---
+
+## Containerized Application Infrastructure
+
+### [Task Analytics System](https://github.com/alaaakkad/task-analytics-system)
+
+A containerized application environment built with Linux, Docker, NGINX, FastAPI, and PostgreSQL.
+
+**Focus:** Docker · Linux · NGINX · FastAPI · PostgreSQL
+
+---
+
+### [Containerized Task Platform](https://github.com/alaaakkad/containerized-task-platform)
+
+A multi-tier application infrastructure designed around containerization, reverse proxying, application services, databases, and caching.
+
+**Technology:** Docker · NGINX · FastAPI · PostgreSQL · Redis
+
+---
+
+# Technology Stack
+
+| Area               | Technologies                            |
+| ------------------ | --------------------------------------- |
+| Operating Systems  | Linux · Windows Server                  |
+| Virtualization     | VMware vSphere · Proxmox · KVM          |
+| Automation         | PowerShell · Bash · Python              |
+| Containers         | Docker · Docker Compose · Kubernetes    |
+| Web Infrastructure | NGINX · Apache                          |
+| Databases          | PostgreSQL · MariaDB                    |
+| Monitoring         | Zabbix · Prometheus                     |
+| Networking         | TCP/IP · Routing · Switching · VPN      |
+| Version Control    | Git · GitHub                            |
+| Infrastructure     | Active Directory · DNS · DHCP · Storage |
+
+---
+
+# Engineering Focus
+
+My work focuses on building infrastructure that is:
+
+**Reliable · Automated · Observable · Reproducible · Maintainable**
+
+I am particularly interested in reducing repetitive operational work through automation and building infrastructure that can be consistently deployed, monitored, and maintained.
+
+---
+
+## Current Direction
+
+Developing deeper expertise in:
+
+**Infrastructure Automation · Containers · Kubernetes · CI/CD · Observability · Cloud · Platform Engineering**
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/alaa-alakkad) · [GitHub](https://github.com/alaaakkad)
+[LinkedIn](https://www.linkedin.com/in/alaa-alakkad)
+[GitHub](https://github.com/alaaakkad)
