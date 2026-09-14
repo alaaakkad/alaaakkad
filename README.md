@@ -1,120 +1,52 @@
-# GitHub Profile README
+# Hi, I'm Alaa Akkad
 
-# Alaa Alakkad
+Infrastructure Engineer focused on enterprise infrastructure,
+automation, virtualization, and modern platform engineering.
 
-### IT Systems Engineer | Infrastructure Automation | Virtualization | Linux | Windows | Containers
+## What I Work With
 
-IT Systems Engineer focused on designing, operating, and automating reliable infrastructure environments.
+- Infrastructure: VMware vSphere, Linux, Windows Server, Networking, Storage
+- Automation: Terraform, Ansible, Bash, PowerShell, Python
+- Containers: Docker
+- CI/CD: GitHub Actions
+- Observability: Grafana, Prometheus/Node Exporter, Alertmanager
+- Version Control: Git
+- Cloud & Platform: AWS, Kubernetes
 
-My work spans Linux and Windows Server administration, virtualization, infrastructure automation, containerized applications, networking, monitoring, and production systems.
+## Engineering Focus
 
-Currently building practical projects that bridge traditional infrastructure operations with modern DevOps and Platform Engineering practices.
+I build and automate infrastructure with a focus on:
 
----
+- Infrastructure as Code
+- Configuration Management
+- CI/CD Automation
+- Security and Secrets Management
+- Observability and Alerting
+- Reliability and Operational Stability
+- Repeatable and Maintainable Infrastructure
 
-## Engineering Areas
+## Featured Projects
 
-* **Infrastructure Administration** — Linux, Windows Server, Active Directory, Networking
-* **Virtualization** — VMware vSphere, Proxmox, KVM
-* **Infrastructure Automation** — PowerShell, Bash, Python
-* **Containers** — Docker, Docker Compose, Kubernetes
-* **Web & Application Infrastructure** — NGINX, FastAPI, PostgreSQL, Redis
-* **Monitoring & Observability** — Zabbix, Prometheus
-* **Version Control & Automation** — Git, GitHub, CI/CD
+### Enterprise Infrastructure Automation
+Terraform + Ansible + Docker + GitHub Actions + Observability
 
----
+### Multi-Environment Proxmox Infrastructure
+Terraform-based infrastructure provisioning across environments.
 
-# Featured Projects
+### Task Analytics Platform
+Containerized application using Docker Compose, FastAPI, PostgreSQL,
+Redis, and NGINX.
 
-## Linux Automation & System Administration
-
-### [Linux Scripts](https://github.com/alaaakkad/linux-scripts)
-
-A growing collection of practical Bash automation projects for Linux system administration and operational tasks.
-
-Projects include:
-
-* Service Health Checker
-* Automated Backup Retention
-* Log Archive
-* NGINX Log Analyzer
-* Server Performance Monitoring
-
-**Focus:** Bash · Linux · Automation · Monitoring · Logging · Backup
-
----
-
-## Windows PowerShell Administration
-
-### [Windows PowerShell Administration](https://github.com/alaaakkad/Windows-PowerShell-Administration)
-
-A collection of PowerShell tools for Windows Server administration, remote management, session monitoring, SQL service validation, and operational automation.
-
-Projects include:
-
-* SQL Service Checker
-* Remote Windows Update Tool
-* Session Manager Pro
-* Master Session Manager Pro
-
-**Focus:** PowerShell · Windows Server · WinRM · Remote Administration · Automation
-
----
-
-## Containerized Application Infrastructure
-
-### [Task Analytics System](https://github.com/alaaakkad/task-analytics-system)
-
-A containerized application environment built with Linux, Docker, NGINX, FastAPI, and PostgreSQL.
-
-**Focus:** Docker · Linux · NGINX · FastAPI · PostgreSQL
-
----
-
-### [Containerized Task Platform](https://github.com/alaaakkad/containerized-task-platform)
-
-A multi-tier application infrastructure designed around containerization, reverse proxying, application services, databases, and caching.
-
-**Technology:** Docker · NGINX · FastAPI · PostgreSQL · Redis
-
----
-
-# Technology Stack
-
-| Area               | Technologies                            |
-| ------------------ | --------------------------------------- |
-| Operating Systems  | Linux · Windows Server                  |
-| Virtualization     | VMware vSphere · Proxmox · KVM          |
-| Automation         | PowerShell · Bash · Python              |
-| Containers         | Docker · Docker Compose · Kubernetes    |
-| Web Infrastructure | NGINX · Apache                          |
-| Databases          | PostgreSQL · MariaDB                    |
-| Monitoring         | Zabbix · Prometheus                     |
-| Networking         | TCP/IP · Routing · Switching · VPN      |
-| Version Control    | Git · GitHub                            |
-| Infrastructure     | Active Directory · DNS · DHCP · Storage |
-
----
-
-# Engineering Focus
-
-My work focuses on building infrastructure that is:
-
-**Reliable · Automated · Observable · Reproducible · Maintainable**
-
-I am particularly interested in reducing repetitive operational work through automation and building infrastructure that can be consistently deployed, monitored, and maintained.
-
----
+### Linux & PowerShell Automation
+Practical scripts for system administration, monitoring, log analysis,
+backup, and Windows administration.
 
 ## Current Direction
 
-Developing deeper expertise in:
+Deepening expertise in:
 
-**Infrastructure Automation · Containers · Kubernetes · CI/CD · Observability · Cloud · Platform Engineering**
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/alaa-alakkad)
-[GitHub](https://github.com/alaaakkad)
+- Kubernetes
+- AWS
+- Cloud Architecture
+- Distributed Systems
+- Platform Engineering
